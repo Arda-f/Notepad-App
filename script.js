@@ -106,7 +106,4 @@ $(function(){
             load_notes()
         }
     })
-
-
 })
-
